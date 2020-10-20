@@ -1,3 +1,5 @@
+// This project is purely for educational purposes
+
 const classNames = {
   TODO_ITEM: 'todo-container',
   TODO_CHECKBOX: 'todo-checkbox',
